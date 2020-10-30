@@ -1,0 +1,30 @@
+Câu 1: Phần của đường bộ được sử dụng cho các loại phương tiện gì?
+    1: Phần mặt và lề đường   
+    2: Phần đường xe chạy   
+    3: Phần đường xe cơ giới.
+
+Câu 2: "Làn đường" là gì?
+    1: Là một phần của đường xe chạy chia theo   
+    2: Là đường xe chạy chia chiều dọc   
+    3: Là đường ô tô chạy.
+
+Câu 3: Khái niệm "khổ giới hạn của đường bộ" đưuojc hiểu như thế nào?
+    1: Là khoảng trống có giới hạn về chiều cao   
+    2: Là khoảng trống có giới hạn về chiều rộng   
+    3: Là khoảng trống gì đó abc
+
+Câu 4: Trong các khái niệm dưới đây, dải phân cách được hiểu như thế nào là đúng?
+    1: Là phần đường để ngăn cách   
+    2: là một phần đường ngăn cách hành lang abc   
+    3: Chia mặt đường thành 2 chiều.
+
+Câu 5: "Dải phân cách" trên đường bộ gồm những loại nào?
+    1: Dải phân cách gồm cố định và di động   
+    2: Dải phân cách gồm tường chống ốn, hộ lan cứng và mềm   
+    3: Gồm Giá long môn và biển báo hiệu đường.
+
+Câu 6: Người lái xe được hiểu như thế nào trong các khái niệm dưới đây?
+    1: Là người điều khiển xe cơ giới   
+    2: Là người điều khiến xe thô sơ   
+    3: Là người điều khiển xe do súc vật kéo.
+

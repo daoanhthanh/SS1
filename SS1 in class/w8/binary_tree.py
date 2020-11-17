@@ -22,14 +22,14 @@ class Node:
             self.data = data
 
 # Print tree
-    def PrintTree(self):
+    def Print_Tree(self):
         if self.left:
-            self.left.PrintTree()
+            self.left.Print_Tree()
         print(self)
         if self.right:
-            self.right.PrintTree()
+            self.right.Print_Tree()
 root = Node(10)
 root.insert(7)
 root.insert(30)
 root.insert(6)
-root.PrintTree()
+root.Print_Tree()
